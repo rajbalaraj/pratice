@@ -1,0 +1,30 @@
+div{
+    color: red;
+    text-align: justify;
+
+}
+
+div1{
+
+    width: 200px;
+    height: 200px;
+    background-color: red;
+
+}
+
+div2{
+
+}
+
+h1{
+    background-color: red;
+    text-align: center;
+    display: inline;
+    padding: 20px;
+    border-width: 5px;
+    border-style:solid;
+    border-color: blue;
+
+
+    
+}
